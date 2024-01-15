@@ -1,0 +1,15 @@
+/Users/elysia/Sait/OOP2_C#/Lab0Assignment/Lab0Assignment/bin/Debug/net7.0/Lab0Assignment
+/Users/elysia/Sait/OOP2_C#/Lab0Assignment/Lab0Assignment/bin/Debug/net7.0/Lab0Assignment.deps.json
+/Users/elysia/Sait/OOP2_C#/Lab0Assignment/Lab0Assignment/bin/Debug/net7.0/Lab0Assignment.runtimeconfig.json
+/Users/elysia/Sait/OOP2_C#/Lab0Assignment/Lab0Assignment/bin/Debug/net7.0/Lab0Assignment.dll
+/Users/elysia/Sait/OOP2_C#/Lab0Assignment/Lab0Assignment/bin/Debug/net7.0/Lab0Assignment.pdb
+/Users/elysia/Sait/OOP2_C#/Lab0Assignment/Lab0Assignment/obj/Debug/net7.0/Lab0Assignment.csproj.AssemblyReference.cache
+/Users/elysia/Sait/OOP2_C#/Lab0Assignment/Lab0Assignment/obj/Debug/net7.0/Lab0Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elysia/Sait/OOP2_C#/Lab0Assignment/Lab0Assignment/obj/Debug/net7.0/Lab0Assignment.AssemblyInfoInputs.cache
+/Users/elysia/Sait/OOP2_C#/Lab0Assignment/Lab0Assignment/obj/Debug/net7.0/Lab0Assignment.AssemblyInfo.cs
+/Users/elysia/Sait/OOP2_C#/Lab0Assignment/Lab0Assignment/obj/Debug/net7.0/Lab0Assignment.csproj.CoreCompileInputs.cache
+/Users/elysia/Sait/OOP2_C#/Lab0Assignment/Lab0Assignment/obj/Debug/net7.0/Lab0Assignment.dll
+/Users/elysia/Sait/OOP2_C#/Lab0Assignment/Lab0Assignment/obj/Debug/net7.0/refint/Lab0Assignment.dll
+/Users/elysia/Sait/OOP2_C#/Lab0Assignment/Lab0Assignment/obj/Debug/net7.0/Lab0Assignment.pdb
+/Users/elysia/Sait/OOP2_C#/Lab0Assignment/Lab0Assignment/obj/Debug/net7.0/Lab0Assignment.genruntimeconfig.cache
+/Users/elysia/Sait/OOP2_C#/Lab0Assignment/Lab0Assignment/obj/Debug/net7.0/ref/Lab0Assignment.dll
