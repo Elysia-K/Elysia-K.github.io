@@ -1,0 +1,15 @@
+/Users/elysia/Sait/OOP2_C#/Module2Lab/Module2Lab/obj/Debug/net7.0/Module2Lab.csproj.AssemblyReference.cache
+/Users/elysia/Sait/OOP2_C#/Module2Lab/Module2Lab/obj/Debug/net7.0/Module2Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elysia/Sait/OOP2_C#/Module2Lab/Module2Lab/obj/Debug/net7.0/Module2Lab.AssemblyInfoInputs.cache
+/Users/elysia/Sait/OOP2_C#/Module2Lab/Module2Lab/obj/Debug/net7.0/Module2Lab.AssemblyInfo.cs
+/Users/elysia/Sait/OOP2_C#/Module2Lab/Module2Lab/obj/Debug/net7.0/Module2Lab.csproj.CoreCompileInputs.cache
+/Users/elysia/Sait/OOP2_C#/Module2Lab/Module2Lab/bin/Debug/net7.0/Module2Lab
+/Users/elysia/Sait/OOP2_C#/Module2Lab/Module2Lab/bin/Debug/net7.0/Module2Lab.deps.json
+/Users/elysia/Sait/OOP2_C#/Module2Lab/Module2Lab/bin/Debug/net7.0/Module2Lab.runtimeconfig.json
+/Users/elysia/Sait/OOP2_C#/Module2Lab/Module2Lab/bin/Debug/net7.0/Module2Lab.dll
+/Users/elysia/Sait/OOP2_C#/Module2Lab/Module2Lab/bin/Debug/net7.0/Module2Lab.pdb
+/Users/elysia/Sait/OOP2_C#/Module2Lab/Module2Lab/obj/Debug/net7.0/Module2Lab.dll
+/Users/elysia/Sait/OOP2_C#/Module2Lab/Module2Lab/obj/Debug/net7.0/refint/Module2Lab.dll
+/Users/elysia/Sait/OOP2_C#/Module2Lab/Module2Lab/obj/Debug/net7.0/Module2Lab.pdb
+/Users/elysia/Sait/OOP2_C#/Module2Lab/Module2Lab/obj/Debug/net7.0/Module2Lab.genruntimeconfig.cache
+/Users/elysia/Sait/OOP2_C#/Module2Lab/Module2Lab/obj/Debug/net7.0/ref/Module2Lab.dll
