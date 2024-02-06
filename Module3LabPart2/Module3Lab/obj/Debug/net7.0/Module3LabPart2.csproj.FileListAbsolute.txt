@@ -1,0 +1,15 @@
+/Users/elysia/Projects/Module3LabPart2/Module3Lab/bin/Debug/net7.0/Module3LabPart2
+/Users/elysia/Projects/Module3LabPart2/Module3Lab/bin/Debug/net7.0/Module3LabPart2.deps.json
+/Users/elysia/Projects/Module3LabPart2/Module3Lab/bin/Debug/net7.0/Module3LabPart2.runtimeconfig.json
+/Users/elysia/Projects/Module3LabPart2/Module3Lab/bin/Debug/net7.0/Module3LabPart2.dll
+/Users/elysia/Projects/Module3LabPart2/Module3Lab/bin/Debug/net7.0/Module3LabPart2.pdb
+/Users/elysia/Projects/Module3LabPart2/Module3Lab/obj/Debug/net7.0/Module3LabPart2.csproj.AssemblyReference.cache
+/Users/elysia/Projects/Module3LabPart2/Module3Lab/obj/Debug/net7.0/Module3LabPart2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elysia/Projects/Module3LabPart2/Module3Lab/obj/Debug/net7.0/Module3LabPart2.AssemblyInfoInputs.cache
+/Users/elysia/Projects/Module3LabPart2/Module3Lab/obj/Debug/net7.0/Module3LabPart2.AssemblyInfo.cs
+/Users/elysia/Projects/Module3LabPart2/Module3Lab/obj/Debug/net7.0/Module3LabPart2.csproj.CoreCompileInputs.cache
+/Users/elysia/Projects/Module3LabPart2/Module3Lab/obj/Debug/net7.0/Module3LabPart2.dll
+/Users/elysia/Projects/Module3LabPart2/Module3Lab/obj/Debug/net7.0/refint/Module3LabPart2.dll
+/Users/elysia/Projects/Module3LabPart2/Module3Lab/obj/Debug/net7.0/Module3LabPart2.pdb
+/Users/elysia/Projects/Module3LabPart2/Module3Lab/obj/Debug/net7.0/Module3LabPart2.genruntimeconfig.cache
+/Users/elysia/Projects/Module3LabPart2/Module3Lab/obj/Debug/net7.0/ref/Module3LabPart2.dll
