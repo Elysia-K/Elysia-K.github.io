@@ -1,0 +1,14 @@
+C:\Users\tjsgm\C#\LABException\LABException\bin\Debug\net7.0\LABException.exe
+C:\Users\tjsgm\C#\LABException\LABException\bin\Debug\net7.0\LABException.deps.json
+C:\Users\tjsgm\C#\LABException\LABException\bin\Debug\net7.0\LABException.runtimeconfig.json
+C:\Users\tjsgm\C#\LABException\LABException\bin\Debug\net7.0\LABException.dll
+C:\Users\tjsgm\C#\LABException\LABException\bin\Debug\net7.0\LABException.pdb
+C:\Users\tjsgm\C#\LABException\LABException\obj\Debug\net7.0\LABException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjsgm\C#\LABException\LABException\obj\Debug\net7.0\LABException.AssemblyInfoInputs.cache
+C:\Users\tjsgm\C#\LABException\LABException\obj\Debug\net7.0\LABException.AssemblyInfo.cs
+C:\Users\tjsgm\C#\LABException\LABException\obj\Debug\net7.0\LABException.csproj.CoreCompileInputs.cache
+C:\Users\tjsgm\C#\LABException\LABException\obj\Debug\net7.0\LABException.dll
+C:\Users\tjsgm\C#\LABException\LABException\obj\Debug\net7.0\refint\LABException.dll
+C:\Users\tjsgm\C#\LABException\LABException\obj\Debug\net7.0\LABException.pdb
+C:\Users\tjsgm\C#\LABException\LABException\obj\Debug\net7.0\LABException.genruntimeconfig.cache
+C:\Users\tjsgm\C#\LABException\LABException\obj\Debug\net7.0\ref\LABException.dll
